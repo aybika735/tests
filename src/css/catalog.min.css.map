@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/catalog.sass"
+    ],
+    "names": [],
+    "file": "catalog.min.css"
+}
